@@ -1,1 +1,2 @@
-# mobileProgramming
+# 2022-2 모바일 프로그래밍 개인과제
+
